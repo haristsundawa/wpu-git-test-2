@@ -11,6 +11,8 @@
 <body>
   <h1>Hello World</h1>
   <p>lorem</p>
+  <li>satu</li>
+  <li>dua</li>
 </body>
 
 </html>
